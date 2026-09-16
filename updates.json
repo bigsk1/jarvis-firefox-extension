@@ -1,7 +1,18 @@
 {
   "addons": {
     "jarvis-companion@bigsk1.com": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.2.2",
+          "update_link": "https://github.com/bigsk1/jarvis-firefox-extension/releases/download/v0.2.2/jarvis_companion-0.2.2.xpi",
+          "update_hash": "sha256:2d6bfb1b3bf5bd69842f198c40e04ef258117dd79fa18ab7243beb3169f1225f",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
