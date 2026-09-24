@@ -31,6 +31,16 @@
               "strict_min_version": "140.0"
             }
           }
+        },
+        {
+          "version": "0.5.2",
+          "update_link": "https://github.com/bigsk1/jarvis-firefox-extension/releases/download/v0.5.2/jarvis_companion-0.5.2.xpi",
+          "update_hash": "sha256:c7875f74f863d0b87bcfdb0ae5bbf9e54f7a94f274374b7a80c757383bba638d",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
         }
       ]
     }
